@@ -1,0 +1,23 @@
+{
+  "name": "exo_git_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mkaranfil/exo_final_git_prenom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mkaranfil/exo_final_git_prenom/issues"
+  },
+  "homepage": "https://github.com/Mkaranfil/exo_final_git_prenom#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
